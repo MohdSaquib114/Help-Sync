@@ -1,0 +1,25 @@
+{
+  "name": "help-sync",
+  "version": "1.0.0",
+  "description": "Short description or introduction of your project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohdSaquib114/Help-Sync.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MohdSaquib114/Help-Sync/issues"
+  },
+  "homepage": "https://github.com/MohdSaquib114/Help-Sync#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.18.2",
+    "mongoose": "^8.2.0"
+  }
+}
